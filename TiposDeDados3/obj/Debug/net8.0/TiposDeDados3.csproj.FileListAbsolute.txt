@@ -1,0 +1,15 @@
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.exe
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.deps.json
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.runtimeconfig.json
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.dll
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.pdb
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.AssemblyInfoInputs.cache
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.AssemblyInfo.cs
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.csproj.CoreCompileInputs.cache
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.sourcelink.json
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.dll
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\refint\TiposDeDados3.dll
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.pdb
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.genruntimeconfig.cache
+C:\Users\rafae\EstudoCSharp\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\ref\TiposDeDados3.dll

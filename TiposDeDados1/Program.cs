@@ -1,4 +1,5 @@
-﻿
+﻿// Tipos de dados - Inteiro
+
 const sbyte idade = 21; //declarando constante
 
 //declarando variáveis:
